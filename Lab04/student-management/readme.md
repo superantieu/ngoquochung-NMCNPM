@@ -30,7 +30,7 @@
 | created_at | DATETIME         | Ngày tạo       |
 
 📊 **Sơ đồ (Database Diagram)**  
-![Database Diagram](./src/docs/database-diagram.png)
+![Database Diagram](./src/docs/database-diagram.PNG)
 
 ---
 
@@ -67,4 +67,5 @@ describe("Student API", () => {
     });
 });
 ```
+
 
